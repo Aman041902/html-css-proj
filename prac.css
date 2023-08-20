@@ -1,0 +1,17 @@
+
+.outer{
+  height: 400px;
+  width: 400px;
+  background-color: blue;
+  
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.heading{
+  color: white;
+  
+  
+}
+
+
